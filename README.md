@@ -35,6 +35,9 @@ Microsoft Power BI: For data visualization and interactive dashboard creation.
 ### 5.	Screenshots / Demos
 Show what the dashboard looks like. - https://github.com/omkar012/Mobile-Sales-Dashboard/blob/main/DASHBOARD.dotx
 
+                     EXAMPLE-(https://github.com/user-attachments/assets/2513ebe6-9a6b-4dcb-90fc-9e611d52c9a2)
+
+
 
 
 
