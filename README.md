@@ -32,8 +32,8 @@ Microsoft Power BI: For data visualization and interactive dashboard creation.
 
 📈 Trend Analysis: MTD (Month-to-Date) sales trend for real-time tracking and performance evaluation.
 
-
-
+### 5.	Screenshots / Demos
+Show what the dashboard looks like. - 
 
 
 
